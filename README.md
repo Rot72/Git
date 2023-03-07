@@ -119,6 +119,14 @@ git merge <nameBranch>
 git push
 ```
 
+<h2>Ignore</h2>
+
+Ignore folders and files
+
+```
+touch .gitignore
+```
+
 <h2>Git errors:</h2>
 
 > error: failed to push some refs to REPOSITORY
