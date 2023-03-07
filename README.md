@@ -15,7 +15,7 @@ Show report with untracked files
 git status
 ```
 
-**Git errors:**
+<h2>Git errors:</h2>
 
 > error: failed to push some refs to REPOSITORY
 
