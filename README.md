@@ -48,22 +48,57 @@ git config --global user.name <user.name>
 
 Create link beetween project und repository
 
-name: origin
+name = origin
 
-url: urlRepository
+url = urlRepository
 
 ```
 git remote add <name> <url>
 ```
 
+And then push using the remote name
 
-
-Send changes
+Send changes to a branch
 
 ```
+git push <nameBranch>
+```
+
+Logs from commit
+
+```
+git reflog
+```
+
+Makes it go back to a version chosen through the id of the log
+
+```
+git reset --hard <id>
+```
+
+New branch
+
+```
+git branch <nameBranch>
+nameBranch = staging
+```
+
+Switch branch
+
+```
+git checkout <nameBranch>
+```
+
+**_before merging pull the files_**
+
+Merging
+
+```
+git checkout <mainBranch>
+git merge <nameBranch>
 git push
-
 ```
+
 
 <h2>Git errors:</h2>
 
