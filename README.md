@@ -48,10 +48,15 @@ git config --global user.name <user.name>
 
 Create link beetween project und repository
 
-```
-git remote add <name>
+name: origin
+
+url: urlRepository
 
 ```
+git remote add <name> <url>
+```
+
+
 
 Send changes
 
