@@ -5,12 +5,10 @@
 
 **Git errors:**
 
-error: failed to push some refs to REPOSITORY
+> error: failed to push some refs to REPOSITORY
 
 ```git
 
 $ git push -f origin main
 
 ```
-
-The background color should be `#ffffff` for light mode and `#0d1117` for dark mode
