@@ -9,6 +9,7 @@ git init
 ```
 
 <h2>Status</h2>
+
 Show report with untracked files:
 
 ```
@@ -16,12 +17,25 @@ git status
 ```
 
 <h2>Add</h2>
+
 Add untracked files:
 
 ```
 git add .
 ```
 
+<h2>Commit:</h2>
+
+Create the first commit
+m = message
+```
+git commit -m "first commit"
+```
+
+Create the first commi
+```
+
+```
 
 
 <h2>Git errors:</h2>
@@ -31,3 +45,6 @@ git add .
 ```
 $ git push -f origin main
 ```
+
+
+
