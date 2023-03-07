@@ -15,6 +15,15 @@ Show report with untracked files:
 git status
 ```
 
+<h2>Add</h2>
+Add untracked files:
+
+```
+git add .
+```
+
+
+
 <h2>Git errors:</h2>
 
 > error: failed to push some refs to REPOSITORY
