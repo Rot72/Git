@@ -36,8 +36,8 @@ git commit -m "first commit"
 Configure git
 
 ```
-git config --global user.email "git@mail.com"
-git config --global user.name "gitName"
+git config --global user.email <user.email>
+git config --global user.name <user.name>
 ```
 
 <br>
@@ -45,6 +45,13 @@ git config --global user.name "gitName"
 [Create repository](https://github.com/new)
 
 <br>
+
+Create link beetween project und repository
+
+```
+git remote add <name>
+
+```
 
 Send changes
 
