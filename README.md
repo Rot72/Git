@@ -91,6 +91,10 @@ git checkout <nameBranch>
 
 **_before merging pull the files_**
 
+```
+git pull
+```
+
 Merging
 
 ```
