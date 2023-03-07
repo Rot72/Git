@@ -9,7 +9,7 @@ git init
 ```
 
 <h2>Status</h2>
-Show report with untracked files
+Show report with untracked files:
 
 ```
 git status
