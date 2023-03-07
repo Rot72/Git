@@ -119,8 +119,6 @@ git merge <nameBranch>
 git push
 ```
 
-<h2>Pull Request</h2>
-
 <h2>Git errors:</h2>
 
 > error: failed to push some refs to REPOSITORY
