@@ -40,11 +40,9 @@ git config --global user.email "git@mail.com"
 git config --global user.name "gitName"
 ```
 
-
-Create repository
-
-[Create](https://github.com/new)
-
+```
+[Create repository](https://github.com/new)
+```
 
 Send changes
 
