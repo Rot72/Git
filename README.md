@@ -24,19 +24,30 @@ Add untracked files:
 git add .
 ```
 
-<h2>Commit:</h2>
+<h2>Commit</h2>
 
 Create the first commit
+
 m = message
 ```
 git commit -m "first commit"
 ```
 
-Create the first commi
-```
+Configure git
 
 ```
+git config --global user.email "git@mail.com"
+git config --global user.name "gitName"
+```
 
+[Create repository] (https://github.com/new)
+
+Send changes
+
+```
+git push
+
+```
 
 <h2>Git errors:</h2>
 
