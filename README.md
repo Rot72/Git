@@ -8,7 +8,7 @@ Git errors:
 
 error: failed to push some refs to REPOSITORY
 
-```
+```git
 
 $ git push -f origin main
 
