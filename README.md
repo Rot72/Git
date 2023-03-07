@@ -83,6 +83,18 @@ git branch <nameBranch>
 nameBranch = staging
 ```
 
+Create a branch based on the main branch and select this
+
+```
+git checkout -b <nameNewBranch>
+```
+
+List the branches
+
+```
+git branch
+```
+
 Switch branch
 
 ```
@@ -102,7 +114,6 @@ git checkout <mainBranch>
 git merge <nameBranch>
 git push
 ```
-
 
 <h2>Git errors:</h2>
 
