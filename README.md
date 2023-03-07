@@ -5,7 +5,7 @@
 
 **Git errors:**
 
-> `#cc0000` error: failed to push some refs to REPOSITORY
+> error: failed to push some refs to REPOSITORY
 
 ```git
 
