@@ -41,7 +41,9 @@ git config --global user.name "gitName"
 ```
 
 <br>
+
 [Create repository](https://github.com/new)
+
 <br><br><br>
 
 Send changes
