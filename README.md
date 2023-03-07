@@ -58,6 +58,8 @@ git remote add <name> <url>
 
 And then push using the remote name
 
+<h2>Branch</h2>
+
 Send changes to a branch
 
 ```
@@ -107,6 +109,8 @@ git checkout <nameBranch>
 git pull
 ```
 
+<h2>Merge</h2>
+
 Merging
 
 ```
@@ -114,6 +118,8 @@ git checkout <mainBranch>
 git merge <nameBranch>
 git push
 ```
+
+<h2>Pull Request</h2>
 
 <h2>Git errors:</h2>
 
